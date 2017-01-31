@@ -831,31 +831,33 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "desktop",
+              "linkInNewWindow": false,
+              "name": "camera",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
           "title1": "Actor",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "When I watch movies, I feel like I could be on the big screen. Then, people on YouTube did acting and that fueled my dream of acting even more.",
+          "caption1": "When I watch movies, I feel like I could be on the big screen. Then, people on YouTube did acting and that fueled my dream of acting even more. An actor is someone who acts. They act on stage, &nbsp; in movies, or on television.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "mobile",
+              "linkInNewWindow": false,
+              "name": "trophy",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
           "title2": "Baseball Player",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "I've wanted to be a baseball player when I was a kid. I even played a baseball game on my computer just to know what it's like to be a baseball player.",
+          "caption2": "I've wanted to be a baseball player when I was a kid. I even played a baseball game on my computer just to know what it's like to be a baseball player. A baseball player is someone who plays baseball. A baseball player is valued to play at several positions.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -869,7 +871,7 @@
           },
           "title3": "Teacher",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Since I've been in school for so long, I thought of becoming a teacher. I want to teach my students to the best of my abilities.",
+          "caption3": "Since I've been in school for so long, I thought of becoming a teacher. I want to teach my students to the best of my abilities. A teacher is someone who teaches his or her students. They teach especially at school.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -883,7 +885,7 @@
           },
           "title4": "Firefighter",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I desired to become a firefighter after one of the firefighters showed up on my 4th birthday. I always thought that firefighters were so cool and I hoped to be one.",
+          "caption4": "I desired to become a firefighter after one of the firefighters showed up on my 4th birthday. I always thought that firefighters were so cool and I hoped to be one. A firefighter is someone who fights fire. They fight fire by using a water hose to extinguish fires.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -925,7 +927,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>I was born in Miami, Florida. I loved going into the Internet. I have a brother who's older than me. I love pizza and cheeseburgers. I also love bacon.</p>"
+          "text": "<p>I was born in Miami, Florida. I loved going into the Internet. I have a brother who's older than me. I love pizza and cheeseburgers. I also love bacon. I'm currently 15 years old.</p>"
         },
         {
           "_tags": [
