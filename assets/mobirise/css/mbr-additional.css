@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -612,6 +613,7 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -681,4 +683,9 @@ h6,
 }
 #form1-11 .form-control-label {
   color: #232323;
+}
+#form1-11 SMALL {
+  color: #e25041;
+  font-size: 19px;
+  font-family: 'Oswald', sans-serif;
 }
