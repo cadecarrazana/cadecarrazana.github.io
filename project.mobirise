@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "name": "cadecarrazana.com",
     "theme": {
       "name": "mobirise3",
@@ -520,7 +520,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/my-family-1400x1866.jpg",
+              "src": "@PROJECT_PATH@/assets/images/my-family-1400x1866-1.jpg",
               "link": "",
               "alt": "",
               "title": "",
