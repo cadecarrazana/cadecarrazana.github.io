@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 41,
+    "uniqCompNum": 49,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -474,10 +474,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -537,7 +539,7 @@
             }
           },
           "title": "The Introduction",
-          "text": "My name is Cade Carrazana. I was first into technology when i was a kid. I usually want to know how technology actually works,but all I ever wanted to do is have fun with technology. I'm dealing with Photoshop currently. &nbsp;I'm practicing my clarinet with my music teacher on Saturdays. I like playing video games.&nbsp;",
+          "text": "My name is Cade Carrazana. I was first into technology when i was a kid. I usually want to know how technology actually works,but all I ever wanted to do is have fun with technology. I'm dealing with Photoshop currently. &nbsp;I'm practicing my clarinet with my music teacher on Saturdays. I like playing video games. I don't pay attention to the news.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts1-p\" data-toolbar=\"-mbrBtnMove\">Continue Bio</a>"
         },
         {
@@ -548,12 +550,12 @@
           "_name": "features6",
           "_anchor": "features6-b",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#475577",
+            "bgColor": "#d14841",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -667,21 +669,21 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>I was born in Miami, Florida. I loved going into the Internet. I have a brother who's older than me. I love pizza and cheeseburgers. I also love bacon. I'm currently 15 years old.</p>"
+          "text": "<p>I was born in Miami, Florida. I loved going into the Internet. I have a brother who's older than me. I love pizza and cheeseburgers. I also love bacon. I'm currently 15 years old. I'm usually calm, but I get angry sometimes.</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-p",
+          "_name": "contacts3",
+          "_anchor": "contacts3-1c",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a38f84",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -690,18 +692,84 @@
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128,
+              "class": "card-img-top",
+              "width": 265,
               "active": true
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "link": "",
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>4350 158 SW Avenue<br>Miami, FL 33185",
-          "text2": "<strong>Contacts</strong><br>\nEmail: ccarrazana@miamiartsstudio.com<br>\nPhone: +1 (305) 414-4791<br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1&nbsp;(305) 414-4791",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "4350 158 SW Avenue<br>Miami, FL 33185",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "ccarrazana@miamiartsstudio.com",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email:&nbsp;ccarrazana@miamiartsstudio.com<br>Phone: +1 (305) 414-4791<br><br><br><br><strong>Address</strong><br>4350 158 SW Avenue<br>Miami, FL 33185<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ccarrazana@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -817,12 +885,12 @@
           "_anchor": "form1-11",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7c706b",
+            "bgColor": "#faaf40",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
