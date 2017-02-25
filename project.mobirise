@@ -700,6 +700,9 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "video-play",
+              "family": "MobiriseIcons",
               "link": "",
               "size": 250
             }
