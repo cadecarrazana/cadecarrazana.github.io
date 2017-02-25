@@ -694,7 +694,7 @@
             "video": {
               "active": true,
               "src": "https://www.youtube.com/watch?v=VLkz8i7v044",
-              "aspectratio": "4:3",
+              "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on"
             },
