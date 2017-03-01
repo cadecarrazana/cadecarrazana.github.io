@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "landingpage.html",
     "name": "cadecarrazana.com",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 51,
+    "uniqCompNum": 59,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -31,8 +31,8 @@
   "pages": {
     "photoshop.html": {
       "settings": {
-        "title": "Photoshop",
-        "order": 2
+        "title": "",
+        "order": 3
       },
       "components": [
         {
@@ -246,7 +246,7 @@
     },
     "illustrator.html": {
       "settings": {
-        "title": "Illustrator",
+        "title": "",
         "order": 4
       },
       "components": [
@@ -392,67 +392,14 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Introduction",
+        "title": "Cade Carrazana",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1e",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f3c649",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=N7nqP5C9ANU",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "linkInNewWindow": false,
-              "name": "video-play",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -740,7 +687,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/political-cartoon-2000x1203-800x481.jpg",
                 "image": "@PROJECT_PATH@/assets/images/political-cartoon-2000x1203.jpg",
-                "caption": "Type caption here",
+                "caption": "Drawing of Cartoon",
                 "active": false
               },
               {
@@ -750,7 +697,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666-800x266.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666.jpg",
-                "caption": "Type caption here",
+                "caption": "Star Wars",
                 "active": false
               },
               {
@@ -760,7 +707,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128-800x451.jpg",
                 "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128.jpg",
-                "caption": "Type caption here",
+                "caption": "My Name on Polka Dots",
                 "active": false
               },
               {
@@ -770,12 +717,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x2962.jpg",
-                "caption": "Type caption here",
+                "caption": "MPOP 5 Poster",
                 "active": true
               }
             ],
             "spacing": 0,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
@@ -785,6 +732,359 @@
           "_anchor": "gallery1-1d",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts3-1c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1&nbsp;(305) 414-4791",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "4350 158 SW Avenue<br>Miami, FL 33185",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "ccarrazana@miamiartsstudio.com",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email:&nbsp;ccarrazana@miamiartsstudio.com<br>Phone: +1 (305) 414-4791<br><br><br><br><strong>Address</strong><br>4350 158 SW Avenue<br>Miami, FL 33185<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ccarrazana@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        }
+      ]
+    },
+    "landingpage.html": {
+      "settings": {
+        "title": "Cade Carrazana",
+        "meta_descr": "Site Creator Description",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tech-production-logo-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CADE CARRAZANA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cadecarrazana.github.io/Cade Carrazana Discuss IT Topic 6.pdf \" target=\"_blank\">Cade Carrazana Discuss IT Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Illustrator</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Industry Certified PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Industry Certified AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Industry Certified AP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Industry Certified AA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Industry Certified DW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MR. PATE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP TEACHER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAMILY FRIEND</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1j",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Cade Carrazana<br>Come check out my stuff!<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check it Out</a> "
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-1k",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "5",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/CVYjXbMl2rk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "",
+          "caption": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/political-cartoon-2000x1203-800x4810.jpg",
+                "image": "@PROJECT_PATH@/assets/images/political-cartoon-2000x12034.jpg",
+                "caption": "Drawing of Cartoon",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666-800x2661.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x6665.jpg",
+                "caption": "Star Wars",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128-800x4512.jpg",
+                "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x11286.jpg",
+                "caption": "My Name on Polka Dots",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x2962-800x11843.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x29627.jpg",
+                "caption": "MPOP 5 Poster",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#7e9b9f",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1m",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCjX5I_bDiEXe882dtHm8TsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
