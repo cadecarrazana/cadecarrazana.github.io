@@ -1074,8 +1074,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/political-cartoon-2000x1203-800x48124.jpg",
-                "image": "@PROJECT_PATH@/assets/images/political-cartoon-2000x120328.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/political-cartoon-2000x1203-800x48140.jpg",
+                "image": "@PROJECT_PATH@/assets/images/political-cartoon-2000x120344.jpg",
                 "caption": "Drawing of Cartoon",
                 "active": false
               },
@@ -1084,8 +1084,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666-800x26625.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x66629.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666-800x26641.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x66645.jpg",
                 "caption": "Star Wars",
                 "active": false
               },
@@ -1094,8 +1094,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128-800x45126.jpg",
-                "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x112830.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128-800x45142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x112846.jpg",
                 "caption": "My Name on Polka Dots",
                 "active": false
               },
@@ -1104,8 +1104,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x2962-800x118427.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x296231.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x2962-800x118443.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x296247.jpg",
                 "caption": "MPOP 5 Poster",
                 "active": true
               }
