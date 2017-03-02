@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 59,
+    "uniqCompNum": 61,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -31,7 +31,7 @@
   "pages": {
     "photoshop.html": {
       "settings": {
-        "title": "",
+        "title": "Cade Carrazana",
         "order": 3
       },
       "components": [
@@ -246,7 +246,7 @@
     },
     "illustrator.html": {
       "settings": {
-        "title": "",
+        "title": "Cade Carrazana",
         "order": 4
       },
       "components": [
@@ -543,6 +543,42 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#contacts1-p\" data-toolbar=\"-mbrBtnMove\">Continue Bio</a>"
         },
         {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-1o",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "5",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/CVYjXbMl2rk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "",
+          "caption": ""
+        },
+        {
           "_inherit": "features3",
           "_tags": [
             "Theme"
@@ -724,7 +760,7 @@
             "spacing": 0,
             "showText": true,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#000000",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -732,6 +768,33 @@
           "_anchor": "gallery1-1d",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCjX5I_bDiEXe882dtHm8TsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
