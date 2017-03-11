@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "landingpage.html",
+    "currentPage": "index.html",
     "name": "cadecarrazana.com",
     "theme": {
       "name": "mobirise3",
@@ -522,9 +522,8 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/my-family-1400x1866-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/my-family-1400x1866_1.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -538,8 +537,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 250
+              "size": 250,
+              "active": true
             }
           },
           "title": "The Introduction",
@@ -1088,8 +1091,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666-800x26628.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x66630.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666-800x2660.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x6662.jpg",
                 "caption": "Star Wars",
                 "active": true
               },
@@ -1098,8 +1101,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128-800x45129.jpg",
-                "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x112831.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128-800x4511.jpg",
+                "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x11283.jpg",
                 "caption": "My Name on Polka Dots",
                 "active": false
               },
