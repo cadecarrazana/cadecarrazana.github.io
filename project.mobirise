@@ -598,7 +598,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#d14841",
+            "bgColor": "#00a885",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1091,8 +1091,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666-800x2668.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x66610.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666-800x26612.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x66614.jpg",
                 "caption": "Star Wars",
                 "active": true
               },
@@ -1101,8 +1101,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128-800x4519.jpg",
-                "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x112811.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128-800x45113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x112815.jpg",
                 "caption": "My Name on Polka Dots",
                 "active": false
               },
