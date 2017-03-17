@@ -148,7 +148,7 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "paddingTop": 0,
+            "paddingTop": "3",
             "paddingBottom": 0,
             "images": [
               {
@@ -235,7 +235,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "#7c706b",
+            "bgColor": "#323232",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -501,7 +501,7 @@
           "_name": "header2",
           "_anchor": "header2-9",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "53",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
@@ -512,7 +512,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -563,7 +563,7 @@
           "_name": "content8",
           "_anchor": "content8-1o",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": false,
             "parallax": true,
@@ -577,7 +577,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
@@ -708,8 +708,8 @@
           "_name": "content1",
           "_anchor": "content1-c",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text": "<p>I was born in Miami, Florida. I loved going into the Internet. I have a brother who's older than me. I love pizza and cheeseburgers. I also love bacon. I'm currently 15 years old. I'm usually calm, but I get angry sometimes.</p>"
@@ -764,10 +764,10 @@
                 "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#2e2e2e",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
