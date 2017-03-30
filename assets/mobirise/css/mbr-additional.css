@@ -612,6 +612,10 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box3-2j .mbr-section-title,
+#msg-box3-2j p {
+  color: #000;
+}
 #menu-1q .hide-buttons .nav-btn {
   display: none !important;
 }

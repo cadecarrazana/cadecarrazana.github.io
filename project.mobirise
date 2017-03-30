@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 91,
+    "uniqCompNum": 92,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -766,6 +766,41 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cadecarrazana.github.io/Cade Carrazana Discuss IT Topic 6.pdf \" target=\"_blank\">Cade Carrazana Discuss IT Topic 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"project 12.html\">Project 12</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Industry Certified PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Industry Certified AI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Industry Certified AP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Industry Certified AA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Industry Certified DW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transcript</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MR. PATE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP TEACHER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community Member</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAMILY FRIEND</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"personal work.html\" aria-expanded=\"false\">PERSONAL WORK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2j",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/my-logo-2000x1124.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=UdGoVkGrwc4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1142,8 +1177,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-1-2000x1438-800x575192.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-1-2000x1438214.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-1-2000x1438-800x5750.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-1-2000x143822.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1152,8 +1187,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-2-2000x1438-800x575193.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-2-2000x1438215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-2-2000x1438-800x5751.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-2-2000x143823.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1162,8 +1197,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-3-2000x1438-800x575194.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-3-2000x1438216.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-3-2000x1438-800x5752.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-3-2000x143824.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1172,8 +1207,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-4-2000x1438-800x575195.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-4-2000x1438217.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-4-2000x1438-800x5753.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-4-2000x143825.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1182,8 +1217,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-5-2000x1438-800x575196.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-5-2000x1438218.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-5-2000x1438-800x5754.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-5-2000x143826.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1192,8 +1227,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-6-2000x1438-800x575197.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-6-2000x1438219.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-6-2000x1438-800x5755.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-6-2000x143827.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1202,8 +1237,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-7-2000x1438-800x575198.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-7-2000x1438220.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-7-2000x1438-800x5756.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-7-2000x143828.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1212,8 +1247,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-8-2000x1438-800x575199.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-8-2000x1438221.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-8-2000x1438-800x5757.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-8-2000x143829.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1222,8 +1257,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-9-2000x1438-800x575200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-9-2000x1438222.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-9-2000x1438-800x5758.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-9-2000x143830.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1232,8 +1267,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-10-2000x1438-800x575201.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-10-2000x1438223.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-10-2000x1438-800x5759.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-10-2000x143831.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1242,8 +1277,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-11-2000x1438-800x575202.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-11-2000x1438224.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-11-2000x1438-800x57510.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-11-2000x143832.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1252,8 +1287,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-12-2000x1438-800x575203.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-12-2000x1438225.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-12-2000x1438-800x57511.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-12-2000x143833.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1262,8 +1297,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-13-2000x1438-800x575204.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-13-2000x1438226.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-13-2000x1438-800x57512.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-13-2000x143834.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1272,8 +1307,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-14-2000x1438-800x575205.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-14-2000x1438227.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-14-2000x1438-800x57513.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-14-2000x143835.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1282,8 +1317,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-15-2000x1438-800x575206.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-15-2000x1438228.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-15-2000x1438-800x57514.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-15-2000x143836.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1292,8 +1327,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-16-2000x1438-800x575207.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-16-2000x1438229.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-16-2000x1438-800x57515.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-16-2000x143837.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1302,8 +1337,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-17-2000x1438-800x575208.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-17-2000x1438230.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-17-2000x1438-800x57516.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-17-2000x143838.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1312,8 +1347,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-18-2000x1438-800x575209.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-18-2000x1438231.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-18-2000x1438-800x57517.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-18-2000x143839.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1322,8 +1357,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-19-2000x1438-800x575210.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-19-2000x1438232.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-19-2000x1438-800x57518.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-19-2000x143840.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1332,8 +1367,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-20-2000x1438-800x575211.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-20-2000x1438233.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-20-2000x1438-800x57519.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-20-2000x143841.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1342,8 +1377,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-22-2000x1438-800x575212.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-22-2000x1438234.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-22-2000x1438-800x57520.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-22-2000x143842.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1352,8 +1387,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-23-2000x1438-800x575213.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-23-2000x1438235.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-23-2000x1438-800x57521.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-groups-and-layers-version-23-2000x143843.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1703,7 +1738,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/political-cartoon-2000x1203-800x481-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/political-cartoon-2000x1203236.jpg",
+                "image": "@PROJECT_PATH@/assets/images/political-cartoon-2000x120344.jpg",
                 "caption": "Drawing of Cartoon",
                 "active": false
               },
@@ -1713,7 +1748,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666-800x266-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x666237.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-star-wars-compilation-2000x66645.jpg",
                 "caption": "Star Wars",
                 "active": false
               },
@@ -1723,7 +1758,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128-800x451-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x1128238.jpg",
+                "image": "@PROJECT_PATH@/assets/images/polka-dots-1-2000x112846.jpg",
                 "caption": "My Name on Polka Dots",
                 "active": false
               },
@@ -1733,7 +1768,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x2962-800x1184-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x2962239.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cade-carrazana-poster-2000x296247.jpg",
                 "caption": "MPOP 5 Poster",
                 "active": true
               }
