@@ -792,7 +792,7 @@
             "paddingBottom": "5",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/my-logo-2000x1124.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1500.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
